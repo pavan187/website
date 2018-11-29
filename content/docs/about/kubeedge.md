@@ -54,7 +54,7 @@ The basic workflow is:
 * Download the Kubeedge scripts and configuration files.
 * Customize the configuration.
 * Run `mosquitto` and `Kubeedge` binary to your chosen environment.
-
+* Pavan Kumar D
 You adapt the configuration to choose the platforms and services that you want
 to use for your environment: `certfile`, `keyfile`, and so on.
 
